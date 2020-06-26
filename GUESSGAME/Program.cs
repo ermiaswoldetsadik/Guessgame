@@ -1,7 +1,7 @@
 ﻿using System;
 
 // Namespace
-namespace NumberGuesser
+namespace Guessgame
 {
     // Main Class
     class Program
@@ -87,9 +87,9 @@ namespace NumberGuesser
         static void GetAppInfo()
         {
             // Set app vars
-            string appName = "Number Guesser";
-            string appVersion = "1.0.0";
-            string appAuthor = "Brad Traversy";
+            string appName = "Guessgame";
+            string appVersion = "1";
+            string appAuthor = "Ermias";
 
             // Change text color
             Console.ForegroundColor = ConsoleColor.Green;
