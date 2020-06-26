@@ -1,0 +1,13 @@
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\bin\Debug\netcoreapp3.1\GUESSGAME.exe
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\bin\Debug\netcoreapp3.1\GUESSGAME.deps.json
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\bin\Debug\netcoreapp3.1\GUESSGAME.runtimeconfig.json
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\bin\Debug\netcoreapp3.1\GUESSGAME.runtimeconfig.dev.json
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\bin\Debug\netcoreapp3.1\GUESSGAME.dll
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\bin\Debug\netcoreapp3.1\GUESSGAME.pdb
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.csprojAssemblyReference.cache
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.AssemblyInfoInputs.cache
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.AssemblyInfo.cs
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.csproj.CoreCompileInputs.cache
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.dll
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.pdb
+C:\Users\ermov\gtcoding\C#\Guessgame\GUESSGAME\obj\Debug\netcoreapp3.1\GUESSGAME.genruntimeconfig.cache
